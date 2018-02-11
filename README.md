@@ -1,4 +1,4 @@
 # Less
-Ionic demo
+Less demo
 
 By tushuyuehou
